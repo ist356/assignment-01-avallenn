@@ -14,7 +14,7 @@ The output should be:
 
 numdict = {'odd':[], 'even':[]}
 while True:
-    number = int(input("Enter a number (0 to stop): "))
+    number = int(input("Enter a number (enter 0 to stop): "))
     
     if number == 0:
         break
