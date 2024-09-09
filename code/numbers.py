@@ -12,3 +12,15 @@ The output should be:
 {'odd': [3, 5], 'even': [2, 4, 6]}
 '''
 
+numdict = {'odd':[], 'even':[]}
+while True:
+    number = int(input("Enter a number (0 to stop): "))
+    
+    if number == 0:
+        break
+    
+    if number % 2 == 0:
+        numdict['even'].append(number)
+    else:
+        numdict['odd'].append(number)
+print(numdict)
