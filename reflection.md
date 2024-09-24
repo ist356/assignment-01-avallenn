@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Avery Allen
+Sudent Email:  avallen@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+Overall this was a good review for me as I was able to practice my if loops through the debugging process. The only thing I forgot how to do, which I had to look up, was how to identify whether a number is odd or even, but I will now remember that I need to divide it by 2 and have a reminder of 0 for it to be even, and every other number will be odd.
